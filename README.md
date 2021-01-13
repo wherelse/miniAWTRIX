@@ -1,7 +1,7 @@
 # miniAWTRIX
 mini version of AWTRIX hardware, testing....
 
-![](\image\爆炸图.JPG)
+![](/image/爆炸图.JPG)
 
 The project include:
 
