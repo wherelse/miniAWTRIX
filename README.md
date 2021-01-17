@@ -1,5 +1,5 @@
 # miniAWTRIX
-mini version of AWTRIX hardware, testing....
+mini version of AWTRIX hardware, **testing....**,PCB have some error need to fix and verify.
 
 ![](/image/爆炸图.JPG)
 
